@@ -1,0 +1,9 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "GitHub Actions CI/CD 학습용 계산기",
+  "type": "module",
+  "scripts": {
+    "start": "npx http-server src -p 8080 -c-1"
+  }
+}
